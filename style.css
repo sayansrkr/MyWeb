@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+
+.header{
+ margin:1px;
+ background-color: steelblue;
+ padding:1px;
+ display: inline-block;
+ background-color: rgb(101,52,52);
+ text-align: center;
+ font-size: 150%;
+}
+ a[herf ^="https"]{
+ 
+    background-color: brown;
+    
+}
+
+.bode{
+    background-color: rgb(101, 52, 52);
+}
+div{
+    border: 3px;
+  
+}
+body {
+    font-family:300px 'Roboto', sans-serif;
+    color: aliceblue;
+    margin: 20px 20px 20px 20px;
+}
+img{
+    border-radius: 5px;
+    border-color: thistle;
+   
+}
+.wiki{
+    margin-left: 38%;
+}
+.h1{
+    margin-left: 38%;
+}
+h3{
+    color: rgb(53, 156, 47);
+    font-size: large;
+    border-bottom: 2px;
+    border-color: rgb(185, 29, 45);
+}
+
+/* link visited hover active all elements are pseudo classs elements */
+a:link{
+    color: rgb(39, 184, 189);
+}
+a:visited{
+    color: yellow;
+}
+a:hover{
+    color: violet;
+
+}
+a:active{
+    color: black;
+}
+body{
+    font-weight: 700px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 8px;
+}
+a{
+    padding-bottom: 9px;
+}
